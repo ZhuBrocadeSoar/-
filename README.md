@@ -9,3 +9,7 @@
 不过这个文档（README.md）是markdown格式的，也许你要简单学习一下markdown的语法才能驾驭这个文档的编写。
 
 [Markdown教程](http://www.appinn.com/markdown/)
+
+# 学习网站
+
+[C语言中文网](http://c.biancheng.net/)
